@@ -1,2 +1,2 @@
 # multilayer-perceptron
-multilayer perceptron in c
+Multilayer Perceptron in c
